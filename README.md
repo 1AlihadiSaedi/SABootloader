@@ -18,7 +18,7 @@ SaBootloader یک بوت‌لودر سبک و مینیمال است که وظی�
 - از دید کاربر، تنها ضعف محسوس می‌تواند نبود پشتیبانی از Dual Boot باشد.
 
 ## 🔗 لینک‌ها
-[دانلود SaBootloader](#)  
-[گیت‌هاب پروژه](#)  
+[دانلود SaBootloader]([#](https://github.com/1AlihadiSaedi/SaBootloader/archive/refs/tags/SaBootloader_beta.zip))  
+[گیت‌هاب پروژه]([#](https://github.com/1AlihadiSaedi/SaBootloader))  
 [وب‌سایت رسمی](https://saedi.zya.me)  
 [کانال تلگرام](https://t.me/tel_sabootloader)
