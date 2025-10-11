@@ -1,4 +1,7 @@
+
 # SaBootloader
+![ICON](https://github.com/user-attachments/assets/b95c722a-775e-46d1-8e66-2055fe7f9b75)
+
 **۱۱٬۴۷۶ برابر کوچک‌تر از GRUB**
 
 ## 🧩 معرفی
