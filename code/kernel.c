@@ -5,7 +5,7 @@
 void main() {
 
 
-    //log("GOOD!",0,Blue,White);
+    log("GOOD!",0,Blue,White);
 
     for(;;);
 }
